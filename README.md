@@ -1,2 +1,2 @@
 # Netflix-replica
-I recreated the Netflix landing page using HTML and CSS (unresponsive)
+Recreated the Netflix landing page using HTML and CSS (responsive)
